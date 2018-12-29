@@ -1,0 +1,18 @@
+This is a flask based blog whose created using Python, flask, bootstrap, MySql(Xamp),sqlalchemy etc.
+
+How to Login. (Only For Admin).
+
+step-1. Run And open on localhost :-      http://127.0.0.1:5000/dashboard
+(Your Localhost address may be changed)
+
+
+step-2. Enter into login panel
+	     User name   	: 	admin
+	      Password 	:	password
+
+
+
+Created By :  Brijesh Singh Kushwaha
+Email	  :  kushwahab46@gmail.com
+
+Thank You.
